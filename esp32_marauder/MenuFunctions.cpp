@@ -1774,6 +1774,7 @@ void MenuFunctions::RunSetup()
   #endif
   #ifdef HAS_GPS
     gpsInfoMenu.name = "GPS Data";
+    gpsMainMenu.name = "GPS";
     wardrivingMenu.name = "Wardriving";
   #endif  
   htmlMenu.name = "EP HTML List";
