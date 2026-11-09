@@ -159,7 +159,7 @@ class MenuFunctions
     Menu wifiSnifferMenu;
     Menu wifiAttackMenu;
     #ifdef HAS_GPS
-      Menu gpsMenu;
+      Menu gpsInfoMenu;
       Menu gpsMainMenu;
     #endif
     Menu wifiGeneralMenu;
